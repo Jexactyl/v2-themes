@@ -4,5 +4,5 @@
 Free themes for you to use with Jexactyl.
 
 ## "Lights Out" - Dark Theme
-[LightsOut](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/home.png)
+[![LightsOut](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/home.png)](https://github.com/Jexactyl/themes/blob/main/lights-out/README.md)
 Please refer to the [installation instructions](https://github.com/Jexactyl/themes/blob/main/lights-out/README.md) to install.

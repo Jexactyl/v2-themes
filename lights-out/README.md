@@ -39,13 +39,13 @@ Assuming you've followed all the previous steps correctly, your Panel should now
 
 ## Screenshots
 ### Server List
-[ServerList](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/home.png)
+[![ServerList](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/home.png)](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/home.png)
 ### Account
-[Account](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/account.png)
+[![Account](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/account.png)](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/account.png)
 ### Store
-[Store](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/store.png)
+[![Store](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/store.png)](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/store.png)
 ### Console
-[Console](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/console.png)
+[![Console](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/console.png)](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/console.png)
 ### Files
-[Files](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/files.png)
+[![Files](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/files.png)](https://raw.githubusercontent.com/Jexactyl/themes/main/lights-out/screenshots/files.png)
 
