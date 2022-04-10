@@ -10,3 +10,7 @@ Please refer to the [installation instructions](https://github.com/Jexactyl/them
 ## "Flashbang" - Light Theme
 [![Flashbang](https://raw.githubusercontent.com/Jexactyl/themes/main/flashbang/screenshots/home.png)](https://github.com/Jexactyl/themes/blob/main/flashbang/README.md)
 Please refer to the [installation instructions](https://github.com/Jexactyl/themes/blob/main/flashbang/README.md) to install.
+
+## "Default" - Jexactyl Theme
+[![Default](https://raw.githubusercontent.com/Jexactyl/themes/main/default/screenshots/home.png)](https://github.com/Jexactyl/themes/blob/main/default/README.md)
+Please refer to the [installation instructions](https://github.com/Jexactyl/themes/blob/main/default/README.md) to install.
