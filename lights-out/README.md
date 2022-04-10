@@ -29,6 +29,7 @@ curl -Lo tailwind.config.js https://raw.githubusercontent.com/Jexactyl/themes/ma
 ## 3) Build Jexactyl with theme installed
 Once you've downloaded the new configuration file, you can rebuild the Panel.
 ```bash
+cd /var/www/jexactyl
 yarn build:production
 ```
 This operation may take some time depending on your machines specifications.
